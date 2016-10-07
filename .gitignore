@@ -1,0 +1,10 @@
+\.ipynb_checkpoints
+\bin
+\graphs
+\lesion_nxGfeatures
+\lesion_SER_edgesw
+\parse_probmaps
+\triangulations
+*.pyc
+*.pdf
+*.pklz
